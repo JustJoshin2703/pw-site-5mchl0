@@ -1,0 +1,58 @@
+{
+  "mode": "close",
+  "asOf": "2026-11-20",
+  "generated": "2026-11-20 17:30 AEDT",
+  "alerts": [],
+  "signals": {
+    "IOZ": {
+      "tone": "strong",
+      "verdict": "Strong buy zone",
+      "score": 79
+    },
+    "ETHI": {
+      "tone": "neutral",
+      "verdict": "Neutral",
+      "score": 53
+    },
+    "NDQ": {
+      "tone": "strong",
+      "verdict": "Strong buy zone",
+      "score": 95
+    },
+    "SYI": {
+      "tone": "neutral",
+      "verdict": "Neutral",
+      "score": 50
+    },
+    "IOO": {
+      "tone": "strong",
+      "verdict": "Strong buy zone",
+      "score": 81
+    },
+    "IEM": {
+      "tone": "strong",
+      "verdict": "Strong buy zone",
+      "score": 100
+    },
+    "IXJ": {
+      "tone": "neutral",
+      "verdict": "Neutral",
+      "score": 47
+    },
+    "DHHF": {
+      "tone": "strong",
+      "verdict": "Strong buy zone",
+      "score": 82
+    },
+    "GRNV": {
+      "tone": "good",
+      "verdict": "Good entry",
+      "score": 67
+    },
+    "CRED": {
+      "tone": "neutral",
+      "verdict": "Neutral",
+      "score": 46
+    }
+  }
+}
